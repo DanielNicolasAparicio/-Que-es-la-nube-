@@ -26,7 +26,7 @@ ofrece servicios al público a través de Internet.
 La nube privada se define como los servicios informáticos que se ofrecen a través de Internet o de una red interna 
 privada solo a algunos usuarios y no al público general. También denominada nube interna o corporativa, la informática 
 en nube privada aporta a las empresas gran parte de las ventajas de la nube pública (como autoservicio, escalabilidad 
-y elasticidad). en terminos generales la nube privada es que no se comparte y ofrece servicios a través de una red 
+y elasticidad). en términos generales la nube privada es que no se comparte y ofrece servicios a través de una red 
 interna privada, normalmente hospedada en el entorno local.
 
 <h3>Nube híbrida</h3>
@@ -34,7 +34,8 @@ interna privada, normalmente hospedada en el entorno local.
 La nube híbrida es un entorno informático que combina un centro de datos local (también llamado nube privada ) con una 
 nube pública, lo que permite compartir datos y aplicaciones entre ellos. Algunas personas definen la nube híbrida para 
 incluir configuraciones de "múltiples nubes" en las que una organización utiliza más de una nube pública además de su centro 
-de datos local.
+de datos local. En términos que comparte servicios entre nubes públicas y privadas, según su finalidad; y una nube comunitaria, 
+que comparte recursos solo entre organizaciones, por ejemplo, con instituciones gubernamentales.
 
 ![image](https://user-images.githubusercontent.com/73312813/117744797-e8ad8f80-b1ce-11eb-8926-84abb93e2974.png)
 
