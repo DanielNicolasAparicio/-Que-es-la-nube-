@@ -12,3 +12,8 @@ dondequiera que vaya y siempre que la necesite.
 
 <h1>Tipos de nube</h1>
 <h3>Nube Pública</h3>
+![image](https://user-images.githubusercontent.com/73312813/117743687-e0545500-b1cc-11eb-9cf3-40317169021d.png)
+
+Una nube pública es un estándar de la computación en la nube, en la que un proveedor de servicios pone a disposición 
+del público en general recursos, como aplicaciones y almacenamiento, a través de internet que comparte recursos y 
+ofrece servicios al público a través de Internet.
