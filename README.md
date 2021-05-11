@@ -9,3 +9,6 @@ ejecutar aplicaciones o entregar contenido o servicios, como streaming de vídeo
 ofimática o medios sociales. En lugar de acceder a archivos y datos desde un equipo personal o local, accede 
 a ellos en línea desde cualquier dispositivo conectado a Internet, es decir, la información está disponible 
 dondequiera que vaya y siempre que la necesite.
+
+<h1>Tipos de nube</h1>
+<h3>Nube Pública</h3>
